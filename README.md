@@ -2,6 +2,7 @@
 
 ### Pinar AKtas
   https://github.com/PinarAktas/React_Portfolio
+  https://pinaraktas.github.io/React_Portfolio/
 
   [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
