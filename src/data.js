@@ -95,6 +95,12 @@ export const frontEndPortfolio = [
       img:"assets/reactportfolio.png",
       link:"https://github.com/PinarAktas/React_Portfolio"
     },
+    {
+      id: 5,
+      title: "AutismFY",
+      img:"assets/AutismFY.png",
+      link:"https://hidden-beach-19071.herokuapp.com/"
+    },
   ];
   
  
