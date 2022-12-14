@@ -5,6 +5,10 @@
   https://pinaraktas.github.io/React_Portfolio/
 
   [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+  
+  ## Screenshots
+  
+  ![](public/assets/reactportfolio.png)
 
   ## Table of Content
   - [Project Description](#description)
